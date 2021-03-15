@@ -1,7 +1,7 @@
 package com.cg.dao;
 
 import javax.persistence.EntityManager;
-//import javax.transaction.Transactional;
+
 import javax.persistence.PersistenceContext;
 
 import org.springframework.stereotype.Repository;
